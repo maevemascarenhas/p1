@@ -1,5 +1,3 @@
-package p1;
-
 public class ListFunctions {
     /**
      * Return true if the list is empty. COMPLEXITY O(1).
